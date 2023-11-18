@@ -39,7 +39,8 @@ Users should be able to:
 ### Links
 
 [Demo](https://mendez-v.github.io/stats-preview-card/) 👀
-<!-- [Frontend Mentor](https://your-solution-url.com) 👀 -->
+
+[Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-css-grid-and-mixblendmod-6cdQnQ4Wen) 👀
 
 ## My process
 
@@ -72,7 +73,6 @@ Users should be able to:
   mix-blend-mode: multiply;
 }
 ```
-
 
 ### Useful resources
 
