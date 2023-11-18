@@ -64,6 +64,7 @@ body {
   flex-direction: column;
   margin-block: 5.5rem;
   inline-size: 87.2vw;
+  min-inline-size: 18.75rem;
   max-inline-size: 27rem;
   background-color: var(--secondary);
   border-radius: var(--radius);
