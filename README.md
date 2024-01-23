@@ -38,9 +38,11 @@ Users should be able to:
 
 ### Links
 
-[Demo](https://mendez-v.github.io/stats-preview-card/) 👀
+[Live Site](https://mendez-v.github.io/stats-preview-card/) 👀
 
-[Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-css-grid-and-mixblendmod-6cdQnQ4Wen) 👀
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-css-grid-and-mixblendmod-6cdQnQ4Wen) 👀
+
+[Challenge Repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## My process
 
